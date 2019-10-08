@@ -116,7 +116,6 @@
     </EmbeddedResource>
     <Resource Include="Fonts\Monoton-Regular.ttf" />
     <Resource Include="Fonts\Morning Star.ttf" />
-    <None Include="OutrunClock_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

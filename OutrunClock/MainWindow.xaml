@@ -51,8 +51,8 @@
                     </LinearGradientBrush>
                 </TextBlock.Foreground>
             </TextBlock>
-            <TextBlock Name="Date" Margin="-49,175,-49,-10" TextWrapping="Wrap" FontFamily="Monoton" FontSize="50" Foreground="#FF6093FF" TextAlignment="Center" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Center" Width="362"/>
-            <TextBlock Name="Hour" TextWrapping="Wrap" Margin="8,17,-26,172" FontFamily="Morning star" FontSize="70" RenderTransformOrigin="0.5,0.5" FontStretch="UltraCondensed" FontWeight="Thin" TextAlignment="Center" TextDecorations="{x:Null}" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Name="Date" Margin="-49,175,-49,-10" TextWrapping="Wrap" FontFamily="/OutrunClock;component/Fonts/#Monoton" FontSize="50" Foreground="#FF6093FF" TextAlignment="Center" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Center" Width="362"/>
+            <TextBlock Name="Hour" TextWrapping="Wrap" Margin="8,17,-26,172" FontFamily="/OutrunClock;component/Fonts/#Morning Star" FontSize="70" RenderTransformOrigin="0.5,0.5" FontStretch="UltraCondensed" FontWeight="Thin" TextAlignment="Center" TextDecorations="{x:Null}" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">
                 <TextBlock.Foreground>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="#FF8431D6" Offset="0"/>
